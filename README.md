@@ -8,3 +8,8 @@
 - ⚡ Fun fact: Jeg er 18 og er igang med at udanne mig som data tekniker m. programmering som speciale
 ✨ _special_ ✨
 
+
+How to...
+Bare smid alle filerne ud på skrivebordet og åben exe filen.
+
+.rar filen er selve source filerne
