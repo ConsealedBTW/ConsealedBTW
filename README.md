@@ -12,4 +12,4 @@
 How to...
 Bare smid alle filerne ud på skrivebordet og åben exe filen.
 
-.rar filen er selve source filerne
+CashBack.rar filen er selve source filerne
